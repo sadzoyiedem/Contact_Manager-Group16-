@@ -17,6 +17,35 @@ A simple command-line contact management application built with Python. This pro
 4. Navigate to the directory where you saved the file.
 5. Run the application using the following command:
 
-```bash
-python contact_manager.py
+```
+python contact_manager.py 
+```
+Usage
 
+Once the application is running, you will be prompted to choose an action.
+Simply type the name of the action or its corresponding shortcode to perform the task.
+
+Action	Shortcode	Description
+Search	s	Find a contact by name
+Update	u	Update an existing contact's number
+Delete	d	Delete a contact
+Add	a	Add a new contact
+View	v	View all contacts
+Quit	q	Exit the application
+Project Structure
+
+The project consists of a single Python file with several functions:
+
+contacts : A dictionary to store the contact data.
+
+Contacts() : Searches for a contact.
+
+update_contact() : Updates a contact's phone number.
+
+delete_contact() : Deletes a contact.
+
+add_contact() : Adds a new contact.
+
+view_contacts() : Displays all contacts.
+
+main() : The main loop that runs the application and handles user input.
