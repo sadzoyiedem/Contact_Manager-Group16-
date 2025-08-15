@@ -40,7 +40,7 @@ The project consists of a single Python file with several functions:
 
 contacts : A dictionary to store the contact data.
 
-Contacts( ) : Searches for a contact.
+search_contacts( ) : Searches for a contact.
 
 update_contact( ) : Updates a contact's phone number.
 
