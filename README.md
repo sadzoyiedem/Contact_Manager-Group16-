@@ -40,14 +40,14 @@ The project consists of a single Python file with several functions:
 
 contacts : A dictionary to store the contact data.
 
-Contacts() : Searches for a contact.
+Contacts( ) : Searches for a contact.
 
-update_contact() : Updates a contact's phone number.
+update_contact( ) : Updates a contact's phone number.
 
-delete_contact() : Deletes a contact.
+delete_contact( ) : Deletes a contact.
 
-add_contact() : Adds a new contact.
+add_contact( ) : Adds a new contact.
 
-view_contacts() : Displays all contacts.
+view_contacts( ) : Displays all contacts.
 
 main() : The main loop that runs the application and handles user input.
