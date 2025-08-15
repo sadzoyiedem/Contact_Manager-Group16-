@@ -1,6 +1,6 @@
 # Group_16
 This is a basic contact management system built with Python. It allows users to perform common CRUD (Create, Read, Update, Delete) operations on a dictionary-based contact list. The application runs in the console, providing a simple and interactive way to manage contacts.
-#Contact Manager
+# Contact Manager
 A simple command-line contact management application built with Python. This project allows users to manage a contact list through basic console commands
 # Features
 - **Add Contact:** Add a new contact with a name and phone number.  
