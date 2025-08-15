@@ -20,19 +20,21 @@ A simple command-line contact management application built with Python. This pro
 ```
 python contact_manager.py 
 ```
-Usage
+# Usage
 
 Once the application is running, you will be prompted to choose an action.
 Simply type the name of the action or its corresponding shortcode to perform the task.
 
-Action	Shortcode	Description
-Search	s	Find a contact by name
-Update	u	Update an existing contact's number
-Delete	d	Delete a contact
-Add	a	Add a new contact
-View	v	View all contacts
-Quit	q	Exit the application
-Project Structure
+| Action  | Shortcode | Description                              |
+|---------|-----------|------------------------------------------|
+| Search  | s         | Find a contact by name                   |
+| Update  | u         | Update an existing contact's number      |
+| Delete  | d         | Delete a contact                         |
+| Add     | a         | Add a new contact                        |
+| View    | v         | View all contacts                        |
+| Quit    | q         | Exit the application                     |
+
+# Project Structure
 
 The project consists of a single Python file with several functions:
 
